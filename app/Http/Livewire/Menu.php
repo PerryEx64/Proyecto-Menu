@@ -8,7 +8,7 @@ use Livewire\Component;
 class Menu extends Component
 {
     public $nombre_tipo_platillo ="que es eso";
-    public $search ="asdfasdfasd";
+
 
     public function render()
     {
