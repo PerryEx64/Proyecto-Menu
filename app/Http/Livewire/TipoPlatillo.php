@@ -9,6 +9,7 @@ class TipoPlatillo extends Component
 {
 
     public $nombre_tipo_platillo;
+    public $nombre;
 
     public function render()
     {
